@@ -5,7 +5,7 @@
   <a href="http://www.coolapk.com/u/3189084"><img alt="酷安关注数" src="https://img.shields.io/badge/dynamic/json?color=0eb066&label=%E9%85%B7%E5%AE%89&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dcoolapk%26queryKey%3D3189084"></a>
 </p>
 
-## 功能
+## 功能 
 
 1. 签到领云贝
 2. 自动完成云贝任务，并领取云贝
